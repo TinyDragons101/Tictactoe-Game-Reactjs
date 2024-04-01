@@ -24,8 +24,10 @@ const Game = () => {
     return (
         <div>
             <Board cells={board} onClick={handleClick}></Board>
-            {/* {winner ? `Winner is ${xIsNext ? 'O' : 'X' }` : ""} */}
-            <button onClick={handleResetGame}>Reset Game</button>
+            <div className="game-winner">
+                Winner is: {winner}
+            </div>
+            <button className="game-reset" onClick={handleResetGame}>Reset Game</button>
         </div>
     );
 };

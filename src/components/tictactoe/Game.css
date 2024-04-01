@@ -27,3 +27,20 @@
 .game-cell.isO {
     color: #FF6651;
 }
+
+.game-reset {
+    margin: 25px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(215, 141, 215);
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+.game-winner {
+    padding: 25px;
+    font-size: 20px;
+    color: #F62682;
+}
