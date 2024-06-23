@@ -1,6 +1,6 @@
 # Tictactoe Game by Reactjs
 
-<img src="../my-app/src/assets/images/img1.png" width="300px">
+<img src="./src/assets/images/img1.png" width="300px">
 
 # How to run and build
 
