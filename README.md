@@ -1,5 +1,7 @@
 # Tictactoe Game by Reactjs
 
+<img src="../my-app/src/assets/images/img1.png" width="300px">
+
 # How to run and build
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
